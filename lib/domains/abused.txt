@@ -35,7 +35,6 @@ student.edu.az
 osasmailovic.edu.ba
 oshs.edu.ba
 bup.edu.bd
-green.ac.bd
 me.buet.ac.bd
 buet.ac.bd
 vu.edu.bd
@@ -708,7 +707,6 @@ knue.ac.kr
 kongju.ac.kr
 kookmin.kr
 koreatech.ac.kr
-ks.ac.kr
 kut.ac.kr
 kyonggi.ac.kr
 mokwon.ac.kr
@@ -1632,3 +1630,7 @@ uitm.edu.my
 kab.ac.ug
 uphsl.edu.ph
 umindanao.edu.ph
+lqddn.edu.vn
+uasd.edu.do
+itq.edu.ec
+mit.asia
